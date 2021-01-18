@@ -65,7 +65,7 @@ const Repository: React.FC = () => {
     <>
       <Header>
         <img src={logoImg} alt="Github Explorer" />
-        <Link to="/repositories/rocketseat/unform">
+        <Link to="/">
           <FiChevronLeft size={16} />
           Voltar
         </Link>
